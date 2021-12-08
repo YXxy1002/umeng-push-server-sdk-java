@@ -46,15 +46,4 @@
         </dependency>
 
     </dependencies>
-
-    <distributionManagement>
-        <repository>
-            <id>rdc-releases</id>
-            <url>https://repo.rdc.aliyun.com/repository/114407-release-GWkqY2/</url>
-        </repository>
-        <snapshotRepository>
-            <id>rdc-snapshots</id>
-            <url>https://repo.rdc.aliyun.com/repository/114407-snapshot-s3dU6E/</url>
-        </snapshotRepository>
-    </distributionManagement>
 </project>
