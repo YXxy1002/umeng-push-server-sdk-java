@@ -6,7 +6,7 @@
     <groupId>io.github.YXxy1002</groupId>
     <artifactId>umeng-push-server-sdk-java</artifactId>
     <version>1.1.0</version>
-</dependency>d
+</dependency>
 ```
 ### Getting Started
 ```java
